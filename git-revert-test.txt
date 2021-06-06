@@ -1,0 +1,5 @@
+Resetting Remote branch to a particular commit
+https://stackoverflow.com/questions/5816688/resetting-remote-to-a-certain-commit
+git reset --hard <commit-hash>
+git push -f origin master
+Hope this works.
